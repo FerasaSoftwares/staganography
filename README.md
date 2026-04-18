@@ -4,6 +4,7 @@ A fully self-contained **browser-based steganography application** built in a si
 This tool allows users to **hide, extract, and detect secret data inside images** using the **LSB (Least Significant Bit)** technique.
 
 > ⚠️ Built for educational and demonstration purposes (College Expo Project)
+<img width="1918" height="919" alt="image" src="https://github.com/user-attachments/assets/884605f5-1544-4429-9c16-01158e585d7e" />
 
 ---
 
